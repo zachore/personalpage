@@ -1,0 +1,20 @@
+{
+  "name": "personalpage",
+  "version": "1.0.0",
+  "description": "My personal site",
+  "main": "anything.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./anything.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zachore/personalpage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zachore/personalpage/issues"
+  },
+  "homepage": "https://github.com/zachore/personalpage#readme"
+}
