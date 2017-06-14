@@ -47,7 +47,7 @@ h1 {
 }
 
 .header {
-  background: url('images/header_bg_3.jpg') no-repeat center center fixed;
+  background: url('Images/header_bg_3.jpg') no-repeat center center fixed;
  -webkit-background-size: cover;
  -moz-background-size: cover;
  -o-background-size: cover;
