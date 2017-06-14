@@ -5,7 +5,7 @@
   "main": "anything.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node ./anything.js"
+    "start": "php ./index.php"
   },
   "repository": {
     "type": "git",
